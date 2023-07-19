@@ -1,0 +1,4 @@
+// write code in chrome console
+alert('Hello World!')
+let js="amazing";
+if(js==='amzaing') alert("Javascript is fun");
